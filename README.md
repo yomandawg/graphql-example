@@ -1,1 +1,1 @@
-# GraphQL backend with express-graphql
+# GraphQL frontend
