@@ -1,1 +1,1 @@
-# GraphQL frontend with
+# GraphQL fullstack example
